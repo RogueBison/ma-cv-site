@@ -1,2 +1,2 @@
-# ma-portfolio-site
-Martin Alexander Portfolio Website
+# ma-CV-site
+Martin Alexander CV Website
